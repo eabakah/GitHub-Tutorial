@@ -1,3 +1,3 @@
 # GitHub-Tutorial
 
-Some descripyion
+Some description
